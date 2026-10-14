@@ -1,0 +1,22 @@
+# ambiente e caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.cache
+
+# codigo do YOLOv5 e pesos baixados automaticamente (o notebook clona/baixa)
+yolov5/
+*.pt
+!resultados/modelos/*.pt
+sam2.1_*.pt
+yolov8*-worldv2.pt
+
+# copia temporaria das imagens para arrastar no Make Sense
+rotulacao_makesense/imagens_para_rotular/
+
+# arquivos de depuracao
+_debug_*.ipynb
+.dev/
+_upload_drive/
+_retorno_colab/
+roteiro_videos.md

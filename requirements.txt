@@ -1,0 +1,14 @@
+# Ambiente usado nos notebooks (o Colab ja traz quase tudo; o notebook instala o restante)
+torch>=2.2
+torchvision>=0.17
+tensorflow>=2.16
+ultralytics>=8.3        # SAM 2.1 (Ir Alem) e dependencia do YOLOv5
+opencv-python>=4.8
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+seaborn>=0.13
+scikit-learn>=1.4
+pillow>=10.3
+jupyter
+# + requirements do repositorio oficial do YOLOv5 (instalados pelo notebook: yolov5/requirements.txt)

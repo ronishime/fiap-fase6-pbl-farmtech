@@ -1,0 +1,14 @@
+detect: weights=['D:\\FIAP\\fase_6_cap_1\\yolov5\\runs\\train\\treino_15ep\\weights\\best.pt'], source=D:\FIAP\fase_6_cap_1\dataset\images\test, data=data\coco128.yaml, imgsz=[320, 320], conf_thres=0.25, iou_thres=0.45, max_det=1000, device=cpu, view_img=False, save_txt=False, save_format=0, save_csv=False, save_conf=False, save_crop=False, nosave=False, classes=None, agnostic_nms=False, augment=False, update=False, project=runs/detect, name=teste_15ep, exist_ok=True, line_thickness=3, hide_labels=False, hide_conf=False, half=False, dnn=False, vid_stride=1
+YOLOv5  f957879 Python-3.13.14 torch-2.14.1+cpu CPU
+Fusing layers... 
+Model summary: 68 layers, 7,015,519 parameters, 0 gradients, 15.8 GFLOPs
+image 1/8 D:\FIAP\fase_6_cap_1\dataset\images\test\trator_37.jpg: 224x320 (no detections), 102.4ms
+image 2/8 D:\FIAP\fase_6_cap_1\dataset\images\test\trator_38.jpg: 224x320 (no detections), 65.3ms
+image 3/8 D:\FIAP\fase_6_cap_1\dataset\images\test\trator_39.jpg: 224x320 (no detections), 67.6ms
+image 4/8 D:\FIAP\fase_6_cap_1\dataset\images\test\trator_40.jpg: 224x320 (no detections), 68.0ms
+image 5/8 D:\FIAP\fase_6_cap_1\dataset\images\test\vaca_37.jpg: 224x320 (no detections), 69.9ms
+image 6/8 D:\FIAP\fase_6_cap_1\dataset\images\test\vaca_38.jpg: 256x320 (no detections), 94.2ms
+image 7/8 D:\FIAP\fase_6_cap_1\dataset\images\test\vaca_39.jpg: 320x320 (no detections), 112.9ms
+image 8/8 D:\FIAP\fase_6_cap_1\dataset\images\test\vaca_40.jpg: 256x320 (no detections), 112.3ms
+Speed: 0.6ms pre-process, 86.6ms inference, 0.2ms NMS per image at shape (1, 3, 320, 320)
+Results saved to runs\detect\teste_15ep

@@ -1,0 +1,3 @@
+simulação,épocas,tempo de treino (min),s/época,melhor época,val P,val R,val mAP50,val mAP50-95,teste P,teste R,teste mAP50,teste mAP50-95,perda val. final,inferência (ms/img)
+15ep,15,5.036495059998318,20.14598023999327,10,0.0955,0.292,0.266,0.114,0.012,1.0,0.116,0.0386,0.075727,589.6
+30ep,30,13.522023460001218,27.044046920002437,30,0.891,0.852,0.926,0.472,0.766,0.9,0.95,0.554,0.0487829,494.4

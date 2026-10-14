@@ -1,0 +1,6 @@
+path: D:/FIAP/fase_6_cap_1/dataset
+train: images/train
+val: images/val
+test: images/test
+nc: 2
+names: ['vaca', 'trator']
