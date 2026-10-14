@@ -63,7 +63,7 @@ O que o notebook contém:
 
 ### Vídeo demonstrativo (Entregas 1 e 2)
 
-▶️ **Vídeo – Entregas 1 e 2 – YouTube, não listado:** link em atualização.
+▶️ **[Vídeo – Entregas 1 e 2 – YouTube, não listado](https://youtu.be/rguGdvmAwp0)**
 
 ---
 
